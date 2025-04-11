@@ -2,15 +2,15 @@
   "apps": [
     {
       "name": "BGD",
-      "version": "0"
+      "status": "0"
     },
     {
       "name": "JK",
-      "version": "0"
+      "status": "0"
     },
     {
       "name": "CHM", 
-      "version": "0"
+      "status": "0"
     }
   ]
 }
