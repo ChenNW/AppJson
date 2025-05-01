@@ -3,22 +3,26 @@
     {
       "name": "BGD",
       "version": "1.0.3",
-      "status": "0"
+      "status": "0",
+      "isShow": "Y"
     },
     {
       "name": "JK",
       "version": "1.0.4",
-      "status": "0"
+      "status": "0",
+      "isShow": "Y"
     },
     {
       "name": "CHM", 
       "version": "1.1.2",
-      "status": "1"
+      "status": "1",
+      "isShow": "Y"
     },
     {
       "name": "RDQ", 
       "version": "1.0",
-      "status": "0"
+      "status": "0",
+      "isShow": "Y"
     }
   ]
 }
