@@ -20,9 +20,9 @@
     },
     {
       "name": "RDQ", 
-      "version": "1.0.2",
-      "status": "1",
-      "isShow": "Y"
+      "version": "1.0.3",
+      "status": "0",
+      "isShow": "N"
     }
   ]
 }
