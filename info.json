@@ -14,15 +14,15 @@
     },
     {
       "name": "CHM", 
-      "version": "1.1.5",
-      "status": "2",
+      "version": "1.1.6",
+      "status": "0",
       "isShow": "Y"
     },
     {
       "name": "RDQ", 
-      "version": "1.0.3",
-      "status": "2",
-      "isShow": "N"
+      "version": "1.0.4",
+      "status": "0",
+      "isShow": "Y"
     }
   ]
 }
