@@ -1,12 +1,6 @@
 {
   "apps": [
     {
-      "name": "BGD",
-      "version": "1.0.3",
-      "status": "0",
-      "isShow": "Y"
-    },
-    {
       "name": "JK",
       "version": "1.0.4",
       "status": "0",
@@ -14,15 +8,15 @@
     },
     {
       "name": "CHM", 
-      "version": "1.1.6",
+      "version": "1.1.60",
       "status": "1",
-      "isShow": "Y"
+      "isShow": "N"
     },
     {
       "name": "RDQ", 
-      "version": "1.0.4",
+      "version": "1.0.5",
       "status": "1",
-      "isShow": "Y"
+      "isShow": "N"
     }
   ]
 }
