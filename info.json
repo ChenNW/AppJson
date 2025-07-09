@@ -10,13 +10,13 @@
       "name": "CHM", 
       "version": "1.1.61",
       "status": "1",
-      "isShow": "N"
+      "isShow": "Y"
     },
     {
       "name": "RDQ", 
       "version": "1.0.5",
       "status": "1",
-      "isShow": "N"
+      "isShow": "Y"
     }
   ]
 }
