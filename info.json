@@ -20,6 +20,13 @@
       "status": "0",
       "isShow": "Y",
       "isShowAdButton": "1"
+    },
+    {
+      "name": "AppStore",
+      "content":"",
+      "version": "1.0",
+      "status": "0",
+      "isShow": "Y"
     }
   ]
 }
