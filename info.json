@@ -10,14 +10,14 @@
       "name": "CHM", 
       "version": "1.5",
       "content":"",
-      "status": "0",
+      "status": "1",
       "isShow": "Y"
     },
     {
       "name": "RDQ",
       "content":"",
       "version": "1.6",
-      "status": "0",
+      "status": "1",
       "isShow": "Y",
       "isShowAdButton": "1"
     },
