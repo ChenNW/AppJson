@@ -9,7 +9,7 @@
     {
       "name": "CHM", 
       "version": "1.5",
-      "content":"",
+      "content":"1.CHM文件支持目录列表和目录搜索 2.适配CHM文件的暗黑模式",
       "status": "1",
       "isShow": "Y"
     },
