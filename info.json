@@ -8,16 +8,16 @@
     },
     {
       "name": "CHM", 
-      "version": "1.6",
+      "version": "1.7",
       "content":"1.CHM文件支持目录列表和目录搜索 2.适配CHM文件的暗黑模式",
-      "status": "1",
+      "status": "0",
       "isShow": "Y"
     },
     {
       "name": "RDQ",
       "content":"适配CHM文件的暗黑模式",
-      "version": "1.7",
-      "status": "1",
+      "version": "1.8",
+      "status": "0",
       "isShow": "Y",
       "isShowAdButton": "1"
     },
