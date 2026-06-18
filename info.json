@@ -2,8 +2,8 @@
   "apps": [
     {
       "name": "xinggeceshi",
-      "version": "1.2",
-      "status": "1",
+      "version": "1.1",
+      "status": "0",
       "content":"优化体验~",
       "isShow": "Y"
     },
@@ -32,8 +32,8 @@
     {
       "name": "guoxue",
       "content":"",
-      "version": "1.1",
-      "status": "0",
+      "version": "1.2",
+      "status": "1",
       "isShow": "Y"
     }
   ]
