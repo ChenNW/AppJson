@@ -16,10 +16,10 @@
     },
     {
       "name": "RDQ",
-      "content":"优化体验~",
+      "content":"可以写日记啦~ 还可以语音实时写入哦!",
       "version": "1.8.3",
       "status": "0",
-      "isShow": "Y",
+      "isShow": "N",
       "isShowAdButton": "1"
     },
     {
