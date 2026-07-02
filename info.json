@@ -11,14 +11,14 @@
       "name": "CHM", 
       "version": "1.7.1",
       "content":"优化体验~",
-      "status": "0",
+      "status": "1",
       "isShow": "N"
     },
     {
       "name": "RDQ",
       "content":"可以写日记啦~ 还可以语音实时写入哦!",
       "version": "1.8.3",
-      "status": "0",
+      "status": "1",
       "isShow": "N",
       "isShowAdButton": "1"
     },
