@@ -9,9 +9,9 @@
     },
     {
       "name": "CHM", 
-      "version": "1.7.1",
-      "content":"优化体验~",
-      "status": "1",
+      "version": "1.7.2",
+      "content":"支持MOBI格式的电子书!",
+      "status": "0",
       "isShow": "N"
     },
     {
