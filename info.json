@@ -16,7 +16,7 @@
     },
     {
       "name": "RDQ",
-      "content":"支持mobi格式的小说文件",
+      "content":"优化阅读详情页面,可以打开并保存图片",
       "version": "1.8.4",
       "status": "0",
       "isShow": "N",
