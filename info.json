@@ -16,11 +16,11 @@
     },
     {
       "name": "RDQ",
-      "content":"优化阅读详情页面,\n1.增加翻页样式 \n 2.EPUB电子书支持打开和保存图片\n 3.优化听书体验",
-      "version": "1.8.5",
-      "status": "1",
+      "content":"1.优化阅读体验\n 2.支持导入自定义字体",
+      "version": "1.8.6",
+      "status": "0",
       "isShow": "N",
-      "show_experience_view": "1",
+      "show_experience_view": "0",
       "isShowAdButton": "1"
     },
     {
