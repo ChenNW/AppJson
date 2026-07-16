@@ -9,7 +9,7 @@
     },
     {
       "name": "CHM", 
-      "version": "1.7.3",
+      "version": "1.7.2",
       "content":"1.增加翻页样式 \n 2.EPUB电子书支持打开和保存图片",
       "status": "0",
       "show_experience_view": "0",
