@@ -17,9 +17,9 @@
     },
     {
       "name": "RDQ",
-      "content":"1.优化阅读体验\n 2.支持导入自定义字体",
-      "version": "1.8.6",
-      "status": "1",
+      "content":"增加翻译功能",
+      "version": "1.8.7",
+      "status": "0",
       "isShow": "N",
       "show_experience_view": "1",
       "isShowAdButton": "1"
