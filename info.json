@@ -19,9 +19,9 @@
       "name": "RDQ",
       "content":"增加翻译功能",
       "version": "1.8.7",
-      "status": "0",
+      "status": "1",
       "isShow": "N",
-      "show_experience_view": "0",
+      "show_experience_view": "1",
       "isShowAdButton": "1"
     },
     {
