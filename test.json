@@ -2,5 +2,6 @@
     "name": "chat",
     "title": "123",
     "status": "1",
+    "buttonName": "确定",
     "content":"优化体验~",
 }
