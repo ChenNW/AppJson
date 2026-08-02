@@ -11,8 +11,8 @@
       "name": "CHM", 
       "version": "1.7.3",
       "content":"增加了阅读统计",
-      "status": "0",
-      "show_experience_view": "0",
+      "status": "1",
+      "show_experience_view": "1",
       "isShow": "N"
     },
     {
