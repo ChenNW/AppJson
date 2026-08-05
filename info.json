@@ -9,19 +9,19 @@
     },
     {
       "name": "CHM", 
-      "version": "1.7.3",
-      "content":"增加了阅读统计",
-      "status": "1",
-      "show_experience_view": "1",
+      "version": "1.7.4",
+      "content":"优化了chm文件阅读体验",
+      "status": "0",
+      "show_experience_view": "0",
       "isShow": "N"
     },
     {
       "name": "RDQ",
-      "content":"增加翻译功能",
-      "version": "1.8.7",
-      "status": "2",
+      "content":"增加了阅读统计",
+      "version": "1.8.8",
+      "status": "0",
       "isShow": "N",
-      "show_experience_view": "1",
+      "show_experience_view": "0",
       "isShowAdButton": "1"
     },
     {
