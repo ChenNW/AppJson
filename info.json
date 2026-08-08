@@ -19,9 +19,9 @@
       "name": "RDQ",
       "content":"增加了阅读统计",
       "version": "1.8.8",
-      "status": "0",
-      "isShow": "N",
-      "show_experience_view": "0",
+      "status": "1",
+      "isShow": "Y",
+      "show_experience_view": "1",
       "isShowAdButton": "1"
     },
     {
