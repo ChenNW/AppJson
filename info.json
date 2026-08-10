@@ -9,7 +9,7 @@
     },
     {
       "name": "CHM", 
-      "version": "1.7.4",
+      "version": "1.7.5",
       "content":"优化了chm文件阅读体验",
       "status": "0",
       "show_experience_view": "1",
