@@ -9,11 +9,11 @@
     },
     {
       "name": "CHM", 
-      "version": "1.7.6",
+      "version": "1.7.7",
       "content":"优化了chm文件阅读体验",
-      "status": "1",
-      "show_experience_view": "1",
-      "isShow": "Y"
+      "status": "0",
+      "show_experience_view": "0",
+      "isShow": "0"
     },
     {
       "name": "RDQ",
