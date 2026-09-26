@@ -10,7 +10,7 @@
     {
       "name": "CHM", 
       "version": "1.8.1",
-      "content":"1.增加自动阅读模式\n2.优化CHM文件阅读体验",
+      "content":"1.增加自动阅读模式\n2.优化CHM文件阅读体验\n3.增加听书功能",
       "status": "0",
       "show_experience_view": "0",
       "isShow": "0"
@@ -40,10 +40,10 @@
     },
     {
       "name": "chmreadermacOS",
-      "content":"",
-      "version": "1.0.2",
-      "status": "1",
-      "isShow": "1"
+      "content":"优化文件打开速度",
+      "version": "1.0.3",
+      "status": "0",
+      "isShow": "0"
     },
     {
       "name": "guoxue",
