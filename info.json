@@ -40,10 +40,10 @@
     },
     {
       "name": "chmreadermacOS",
-      "content":"优化文件打开速度",
-      "version": "1.0.3",
-      "status": "0",
-      "isShow": "0"
+      "content":"优化阅读体验~",
+      "version": "1.0.4",
+      "status": "2",
+      "isShow": "1"
     },
     {
       "name": "guoxue",
