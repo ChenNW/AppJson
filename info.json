@@ -51,6 +51,13 @@
       "version": "1.1",
       "status": "1",
       "isShow": "Y"
+    },
+     {
+      "name": "chmohos",
+      "content":"",
+      "version": "1.0",
+      "status": "0",
+      "isShow": "0"
     }
   ]
 }
