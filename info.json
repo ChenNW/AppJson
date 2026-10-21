@@ -17,12 +17,12 @@
     },
     {
       "name": "RDQ",
-      "content":"1.优化自动阅读模式\n2.优化CHM文件阅读体验\n3.增加主题样式",
-      "version": "1.9.8",
-      "status": "1",
-      "isShow": "1",
-      "show_experience_view": "1",
-      "isShowAdButton": "1"
+      "content":"1.优化自定义字体显示\n2.增加wifi传文件",
+      "version": "1.9.9",
+      "status": "0",
+      "isShow": "0",
+      "show_experience_view": "0",
+      "isShowAdButton": "0"
     },
     {
       "name": "AppStore",
