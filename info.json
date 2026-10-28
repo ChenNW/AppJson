@@ -54,8 +54,8 @@
     },
      {
       "name": "chmohos",
-      "content":"新增听书功能",
-      "version": "1.0.2",
+      "content":"1.新增文件管理\n2.长按文件可操作文件",
+      "version": "1.0.3",
       "status": "1",
       "isShow": "1"
     }
