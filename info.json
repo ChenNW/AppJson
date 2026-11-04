@@ -54,10 +54,10 @@
     },
      {
       "name": "chmohos",
-      "content":"1.新增文件管理\n2.长按文件可操作文件",
-      "version": "1.0.3",
-      "status": "1",
-      "isShow": "1"
+      "content":"1.新增阅读排版,无动效翻页\n2.提高阅读体验",
+      "version": "1.0.4",
+      "status": "0",
+      "isShow": "0"
     }
   ]
 }
