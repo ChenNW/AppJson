@@ -35,15 +35,15 @@
       "name": "chmreader",
       "content":"优化阅读体验",
       "version": "1.4.0",
-      "status": "0",
-      "isShow": "0"
+      "status": "1",
+      "isShow": "1"
     },
     {
       "name": "chmreadermacOS",
       "content":"优化阅读体验~",
       "version": "1.0.5",
-      "status": "0",
-      "isShow": "0"
+      "status": "1",
+      "isShow": "1"
     },
     {
       "name": "guoxue",
