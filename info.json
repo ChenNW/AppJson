@@ -57,8 +57,8 @@
       "content":"1.新增 MOBI 电子书支持，阅读格式更丰富\n2.优化听书进度拖动与定位，续听更顺畅\n3.优化加密压缩包的解压逻辑，修复已知问题",
       "version": "1.0.4",
       "status": "1",
-      "isShow": "1",
-      "newStatus": "1",
+      "isShow": "0",
+      "newStatus": "0",
       "isRw":"1"
     }
   ]
