@@ -10,7 +10,7 @@
     {
       "name": "CHM", 
       "version": "1.8.5",
-      "content":"1.新增连续滚动的翻页方式\n2.优化自动阅读\n3.优化听书\n4.优化首页UI",
+      "content":"1.新增FB2及CBZ、CBR漫画阅读 2.优化阅读体验~",
       "status": "1",
       "show_experience_view": "1",
       "isShow": "1"
@@ -33,10 +33,10 @@
     },
     {
       "name": "chmreader",
-      "content":"1.新增FB2及CBZ、CBR漫画阅读 2.优化阅读体验~",
-      "version": "1.4.1",
-      "status": "0",
-      "isShow": "0"
+      "content":"优化阅读体验~",
+      "version": "1.4.0",
+      "status": "1",
+      "isShow": "1"
     },
     {
       "name": "chmreadermacOS",
