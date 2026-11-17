@@ -9,11 +9,11 @@
     },
     {
       "name": "CHM", 
-      "version": "1.8.6",
-      "content":"1.新增FB2及CBZ、CBR漫画阅读 2.优化阅读体验~",
-      "status": "1",
-      "show_experience_view": "1",
-      "isShow": "1"
+      "version": "1.8.7",
+      "content":"1.新增DJVU格式文件的阅读 2.优化阅读体验~",
+      "status": "0",
+      "show_experience_view": "0",
+      "isShow": "0"
     },
     {
       "name": "RDQ",
