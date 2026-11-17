@@ -57,7 +57,7 @@
       "content":"1.新增 UMD、CBZ 漫画、AZW3、AZW 格式支持，导入即可阅读\n2.首页UI修改",
       "version": "1.0.6",
       "status": "1",
-      "isShow": "2",
+      "isShow": "1",
       "newStatus": "1",
       "isRw":"0"
     }
