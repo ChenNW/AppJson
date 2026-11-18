@@ -11,17 +11,17 @@
       "name": "CHM", 
       "version": "1.8.7",
       "content":"1.新增DJVU格式文件的阅读 2.优化阅读体验~",
-      "status": "0",
-      "show_experience_view": "0",
-      "isShow": "0"
+      "status": "1",
+      "show_experience_view": "1",
+      "isShow": "1"
     },
     {
       "name": "RDQ",
       "content":"1.新增DJVU格式文件的阅读 2.优化阅读体验~",
       "version": "2.0.2",
-      "status": "0",
-      "isShow": "0",
-      "show_experience_view": "0",
+      "status": "1",
+      "isShow": "1",
+      "show_experience_view": "1",
       "isShowAdButton": "1"
     },
     {
