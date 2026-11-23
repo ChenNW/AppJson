@@ -54,12 +54,12 @@
     },
      {
       "name": "chmohos",
-      "content":"1.新增 UMD、CBZ 漫画、AZW3、AZW 格式支持，导入即可阅读\n2.首页UI修改",
+      "content":"1.新增DJVU格式文件的阅读 2.优化阅读体验”
       "version": "1.0.7",
       "status": "1",
-      "isShow": "0",
-      "newStatus": "0",
-      "isRw":"1"
+      "isShow": "1",
+      "newStatus": "1",
+      "isRw":"0"
     }
   ]
 }
