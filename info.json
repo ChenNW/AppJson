@@ -54,7 +54,7 @@
     },
      {
       "name": "chmohos",
-      "content":"1.新增DJVU格式文件的阅读 2.优化阅读体验”
+      "content":"1.新增DJVU格式文件的阅读 2.优化阅读体验”，
       "version": "1.0.7",
       "status": "1",
       "isShow": "1",
