@@ -57,9 +57,9 @@
       "content": "1.新增上下滚动的翻页方式\n2.优化阅读体验~",
       "version": "1.0.8",       
       "status": "1",           
-      "isShow": "0",             
-      "newStatus": "0",         
-      "isRw": "1"               
+      "isShow": "1",             
+      "newStatus": "1",         
+      "isRw": "0"               
     }
   ]
 }
